@@ -5,7 +5,7 @@ https://notebooklm.google.com/notebook/ca0aa3ae-130e-46f5-a2b4-686d16061a75
 
 
 OBJETIVO:
-Trata-se de uma atividade de um curso da DIO onde fiz um miniguia realizado através do NotebookLM para quem deseja iniciar na área de investimentos e não tem um norte de onde começar. O tema foi escolhido com base na videoaula do dessafio do curso, focando em quem deseja conhecer melhor como funciona o mundo dos investimentos financeiros.
+Trata-se de uma atividade de um curso da DIO onde fiz um miniguia realizado através do NotebookLM para quem deseja iniciar na área de investimentos e não tem um norte de onde começar. O tema foi escolhido com base na videoaula do desafio do curso, focando em quem deseja conhecer melhor como funciona o mundo dos investimentos financeiros.
 
 
 FONTES UTILIZADAS:
